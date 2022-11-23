@@ -1,0 +1,23 @@
+/* All selectors are sorted by type of selectors first THEN in alphabetical order */
+
+/* Element selectors */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Id selectors */
+
+/* Class Selectors */
+
+/* Media Queries */
+@media screen and (max-width: 600px){
+    /* Element selectors */
+
+    /* Id selectors */
+
+    /* Class Selectors */
+    
+    
+}
